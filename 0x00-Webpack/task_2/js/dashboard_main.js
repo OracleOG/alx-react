@@ -1,6 +1,7 @@
 import $ from 'jquery';
 import _ from 'lodash';
 import '../css/main.css';
+import img from '../assets/holberton_logo.jpg';
 
 $(document).ready(function() {
   $('body').append('<div id="logo"></div>');
