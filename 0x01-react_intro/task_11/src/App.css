@@ -1,0 +1,46 @@
+.App {
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+.App-logo {
+  height: 15em;
+  width: 12em;
+}
+
+.App-header {
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  
+}
+
+.header-text {
+  font-size: 2em;
+  font-weight: bold;
+  color: #f05454;
+}
+.App-body {
+  margin-left: -6px;
+  margin-right: -6px;
+  border-top: 5px solid #f05454;
+  padding: 50px 80px;
+  padding-right: 20px;
+  
+}
+
+.App-footer {
+  border-top: 5px solid #f05454;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+ 
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+  position: sticky;
+  bottom: 0;
+  height: auto;
+}
+
